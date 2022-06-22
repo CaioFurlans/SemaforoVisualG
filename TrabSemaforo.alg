@@ -1,8 +1,9 @@
-algoritmo "Sem·foro"
-// FunÁ„o : Projeto
+algoritmo "Sem√°foro"
+// Fun√ß√£o : Projeto
 // Autor : Caio Furlan
 // Data : 25/05/2022
-// SeÁ„o de DeclaraÁıes
+// Se√ß√£o de Declara√ß√µes
+
 var
 
 //semaforo calculo vermelho
@@ -20,7 +21,7 @@ escreva ("Informe a demanda de veiculos: ")
 leia (demanda_vei)
 escreva ("Informe a quantidade de veiculos que passam por ciclo: ")
 leia (qnt_vei_ciclo)
-escreva ("Informe o tempo de base (sem·faro vermelho): ")
+escreva ("Informe o tempo de base (sem√°faro vermelho): ")
 leia (tempo_vermelho)
 
 qnt_vei_seg <- (demanda_vei/3600)
@@ -43,13 +44,13 @@ cor_vermelho<- ("VERMELHO")
 
 
 escreval ("-------------------------------------------")
-escreval ("O novo tempo do sem·faro vermelho ser· de: ")
+escreval ("O novo tempo do sem√°faro vermelho ser√° de: ")
 escreval (tempo_ciclo_total)
 escreval ("-------------------------------------------")
-escreval ("O novo tempo do sem·faro amarelo ser· de: ")
+escreval ("O novo tempo do sem√°faro amarelo ser√° de: ")
 escreval (tempo_amarelo)
 escreval ("-------------------------------------------")
-escreval ("O novo tempo do sem·faro verde ser· de: ")
+escreval ("O novo tempo do sem√°faro verde ser√° de: ")
 escreval (tempo_verde)
 escreval ("-------------------------------------------")
 escreval
