@@ -2,7 +2,7 @@
 
 Trabalho da Faculdade - Projeto de Semáforo
 
-O exercício era criar um código para o funcionamento de quatro semáforos nas seguintes ciscunstâncias.
+O exercício era criar um código para o funcionamento de quatro semáforos nas seguintes ciscunstâncias, utilizando do programa Visualg de edição, interpretação e execução de algoritmos, com uma linguagem próxima ao portugol, utilizado em diversas instituições de ensino no Brasil para o ensino de lógica de programação.
 
 Uma cidade deseja implantar um sistema de semáforos em sua pequena cidade no interior. Considerando a população da cidade de 40 mil habitantes, 
 ao entrar na cidade encontramos uma via de mão dupla (vai e vem) contém apenas uma única faixa de rolamento por direção (rodovia - centro e centro - rodovia), 
