@@ -19,6 +19,6 @@ Amarelo = 3s
 
 Verde = 21s
 
-Veículos por ciclo = 16.
+Veículos por ciclo = 16
 
 Hora = 3600s
