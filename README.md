@@ -11,14 +11,14 @@ O Prefeito está contratando uma empresa para desenvolver um algoritmo para cont
 Apresente um algoritmo capaz de resolver a situação. Para evitar trabalho de reprogramação do algoritmo faça um menu capaz de coletar o número de veículos, 
 assim o departamento de trânsito será capaz de alterar os parâmetros caso o movimento da cidade aumente. 
 
-Dados:
+Dados =
 
-Vermelho: 24s
+Vermelho = 24s
 
-Amarelo: 3s
+Amarelo = 3s
 
-Verde: 21s
+Verde = 21s
 
-Por ciclo: Veículos = 16.
+Veículos por ciclo = 16.
 
 Hora = 3600s
